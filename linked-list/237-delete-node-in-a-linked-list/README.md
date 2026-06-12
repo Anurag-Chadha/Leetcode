@@ -4,3 +4,4 @@ Given a node to be deleted from a linked list. Head is not given. Remove the nod
 
 **Time Complexity:** O(1)
 
+**Space Complexity:** O(1)
